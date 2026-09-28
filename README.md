@@ -237,7 +237,8 @@ src/
     └── inference_3stage.py              # Z-gate → classifier → routed RUL regressor
 docs/
 ├── architecture.png
-└── inference_demo.gif
+├── inference_demo.gif / .mp4
+└── PHM2018_3Stage_RUL_Presentation.pdf / .pptx
 ```
 
 ---
@@ -270,7 +271,9 @@ pip install pandas numpy scikit-learn tensorflow xgboost imbalanced-learn joblib
 
 ## 📄 Documentation
 
-Project story, EDA, experiment logs, and presentation slides are organized on Notion:
+- 📑 Presentation slides: [PDF](docs/PHM2018_3Stage_RUL_Presentation.pdf) · [PPTX](docs/PHM2018_3Stage_RUL_Presentation.pptx)
+
+Project story, EDA, and experiment logs are organized on Notion:
 
 👉 https://www.notion.so/3e816f83064c81c29fb7e16d2f0f043f
 
